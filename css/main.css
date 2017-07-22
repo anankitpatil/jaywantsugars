@@ -321,6 +321,12 @@ figure img {
     margin: 30px 0 24px;
     -webkit-transform: translate3d(0, 0, 0);
 }
+.content h6 {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 15px 0 24px;
+  -webkit-transform: translate3d(0, 0, 0);
+}
 .content.after h4:first-of-type {
     margin-top: 0;
 }
